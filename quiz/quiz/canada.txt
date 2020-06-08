@@ -1,0 +1,78 @@
+Quelle est la capitale de la Colombie-Britannique?
+3
+1) Victoria
+2) Edmonton
+3) Québec
+1
+Quelle est la capitale de l'Alberta?
+3
+1) Edmonton
+2) Halifax
+3) Winnipeg
+1
+Quelle est la capitale de la Saskatchewan?
+3
+1) Toronto
+2) Regina
+3) Halifax
+2
+Quelle est la capitale du Manitoba?
+3
+1) Fredericton
+2) Yellowknife
+3) Winnipeg
+3
+Quelle est la capitale de l'Ontario?
+3
+1) Toronto
+2) Québec
+3) Ottawa
+1
+Quelle est la capitale du Québec?
+3
+1) Québec
+2) Montréal
+3) Brossard
+1
+Quelle est la capitale de Terre-Neuve-et-Labrador?
+3
+1) Fredericton
+2) Saint-Jean de Terre Neuve
+3) Charlottetown
+2
+Quelle est la capitale du Nouveau-Brunswick?
+3
+1) Fredericton
+2) Whitehorse
+3) Charlottetown
+1
+Quelle est la capitale de la Nouvelle-Écosse? 
+3
+1) Halifax
+2) Iqaluit
+3) Québec
+1
+Quelle est la capitale de l'Île-du-Prince-Édouard?
+3
+1) Whitehorse
+2) Brossard
+3) Charlottetown
+3
+Quelle est la capitale du Nunavut? 
+3
+1) Iqaluit
+2) Charlettetown
+3) Fredericton
+1
+Quelle est la capitale des Territoires du Nord-Ouest?
+3
+1) Montréal
+2) Yellowknife
+3) Regina
+2
+Quelle est la capitale du Yukon? 
+3
+1) Whitehorse
+2) Edmonton
+3) Halifax
+1
